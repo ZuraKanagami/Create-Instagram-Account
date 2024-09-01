@@ -1,0 +1,11 @@
+line =  '\033[4m'
+Italic = '\033[3m'
+P = '\033[0m' # PUTIH
+M = '\x1b[1;91m' # MERAH
+H = '\033[32m' # HIJAU 
+K = '\x1b[1;93m' # KUNING
+B = '\x1b[1;94m' # BIRU
+U = '\x1b[1;95m' # UNGU
+O = '\x1b[1;96m' #ORANGE
+N = '\x1b[0m' # DEFAULT
+A = "\033[90m"# ABU-ABU
